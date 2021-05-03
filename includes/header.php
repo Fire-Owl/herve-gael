@@ -14,7 +14,7 @@
 
 <body>
     <img src="../assets/images/logo.svg" id="logo" alt="logo">
-    <span class="fs-1 fw-bold">Les métiers du web</span>
+    <span class="fs-2" id="title">Les métiers du web</span>
     <div class="navbar navbar-expand-md navbar-light mb-4" role="navigation">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
             aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,8 +34,3 @@
             </ul>
         </div>
     </div>
-    <script>
-    $('.navbar').navbarDropdown({
-        trigger: 'mouseover'
-    });
-    </script>
