@@ -1,3 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Varela+Round&family=Yantramanav&display=swap');
 #logo {
     width: 80px;
+}
+
+.btn-primary {
+    background-color: #F5822E;
+    color:#FAFFFF;
+    border-radius: 18px;
+    border-style: none;
+    margin-bottom: 0;
+}
+
+.btn-primary:hover {
+    background-color: #FAFFFF;
+    color:#F5822E;
+}
+
+.card-img {
+    object-fit: cover;
+}
+
+.card {
+    height: 20rem;
+    width: 10rem;
+}
+
+.help {
+    border: 3px solid red;
 }

@@ -9,8 +9,11 @@
     <link rel="stylesheet" href="../assets/styles/main.css">
 </head>
 <body>
+
+<div class="help col-6 col-sm-4">
+
 <nav class="navbar navbar-expand-lg navbar-light">
-  <div class="container-fluid">
+  <div class="container-fluid help">
     <a class="navbar-brand" href="#">
         <img src="../assets/images/logo.svg" id="logo" alt="logo">
         <span class="fs-1 fw-bold">Les métiers du web</span>
@@ -18,7 +21,10 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      </form>
+    </div>
+
+    <div class="collapse navbar-collapse help" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
           <a class="nav-link" aria-current="page" href="#">Accueil</a>
@@ -30,10 +36,8 @@
           <a class="nav-link" href="#">GitHub</a>
         </li>
       </ul>
-      <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
-    </div>
+
+</div>
+
   </div>
 </nav>
