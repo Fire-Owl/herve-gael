@@ -7,7 +7,6 @@
     <title>Document</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
     <link rel="stylesheet" href="../assets/styles/main.css">
-    <link href=
 </head>
 <body>
 <img src="../assets/images/logo.svg" id="logo" alt="logo">
@@ -24,7 +23,7 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="#">Accueil</a>
+          <a class="nav-link" href="index.php" ><?php if($current=='index')echo '<span class="current">'; ?>Accueil</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="jobs.php">Les métiers</a>

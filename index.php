@@ -1,4 +1,9 @@
-<?php include("/includes/header.php"); ?>
+<?php $basedir = realpath(__DIR__);
+ $current ='index';
+ include($basedir . '/includes/header.php');
+?>
+
+Landing page
 
 
-<?php include("/includes/footer.php") ?>
+<?php include($basedir . '/includes/footer.php'); ?>
