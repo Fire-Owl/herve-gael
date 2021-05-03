@@ -26,7 +26,7 @@
                     <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/pages/metiers.php">Les métiers</a>
+                    <a class="nav-link" href="../pages/metiers.php">Les métiers</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="https://github.com/Fire-Owl/herve-gael">GitHub</a>
