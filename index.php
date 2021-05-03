@@ -1,1 +1,5 @@
-<?php header('Location: pages/'); ?>
+<?php include "/includes/header.php" ?>
+
+
+
+<?php include "/includes/footer.php" ?>
