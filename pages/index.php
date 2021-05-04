@@ -11,23 +11,48 @@
 </head>
 <body>
     
-
 <div class="container">
-  <div class="row">
-    <div class="col d-flex justify-content-end">
-      1 of 3
+    <div class="row">
+
+        <div class="col">
+            <p class="text-introduction">Bienvenue sur le site des métiers du web</p>
+            <p class="text-introduction">Un projet réalisé par Gaël et Hervé dans le cadre de leur formation <br />
+            Access Code School</p>
+            
+
+        <img src="../assets/images/pictures/community-manager.jpg" class="landing-img" alt="...">
+
+        </div>
+
+
+        <div class="col">
+
+        <div class="col-md-3 col-6 pb-3">
+            <div class="card bg-dark text-white no-margin img-card-landing">
+                <img src="../assets/images/pictures/pentester.jpg" class="card-img img-fluid" alt="...">
+                <div class="card-img-overlay d-flex flex-column bd-highlight justify-content-start cardlanding-title-background">
+                    <h5 class="card-title">Pentester</h5>
+                </div>
+                <div class="card-img-overlay d-flex align-items-end flex-column bd-highlight">
+                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1">Plus d' infos</button>
+                </div>
+            </div> 
+        </div>
+
+        </div>
+
+
+
+
+
     </div>
-  </div>
-    <div class="col">
-      1 of 3
-    </div>
-    <div class="col">
-      2 of 3 (wider)
-    </div>
-    <div class="col">
-      3 of 3
-    </div>
-  </div>
+</div>
+
+
+
+
+
+
 
 
 
