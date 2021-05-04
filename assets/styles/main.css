@@ -22,9 +22,22 @@
 
 .card {
     height: 20rem;
-    width: 10rem;
+    width: 20rem;
 }
 
 .help {
     border: 3px solid red;
+}
+
+.no-margin {
+    margin: 0px;
+}
+
+
+.img-zoom-hover {
+    transition: transform .2s; /* Animation */
+  }
+
+.img-zoom-hover:hover{
+    transform: scale(1.5);
 }
