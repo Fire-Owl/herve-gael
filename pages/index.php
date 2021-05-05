@@ -10,10 +10,10 @@ include "../includes/header.php"; ?>
         </div>
         <div class="col-12 col-md-6 p-3">
             <div class="home__container-card">
-                <img src="../assets/images/pictures/pentester.jpg" alt="Notebook" style="width:100%;">
+                <img src="../assets/images/pictures/landing-2.png" alt="Notebook" style="width:100%;">
                 <div class="home__container-card--content">
-                    <h1>Pentester</h1>
-                    <p>Un métier cool</p>
+                    <h5>Le web est l'un des secteurs de l' informatique les plus prolifiques et regroupe de nombreux métiers d'avenir</h5>
+                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1">Voir les métiers</button>
                 </div>
             </div>
         </div>
