@@ -127,6 +127,16 @@ p, h5 {
     /* Center it */
 }
 
+a {
+    text-decoration: none;
+    color: #FAFFFF;
+}
+
+a:hover {
+    color: #F5822E;
+}
+
+
 .home__container-card .home__container-card--content {
     position: absolute;
     /* Position the background text */
