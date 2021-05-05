@@ -68,7 +68,6 @@
     color: #F5822E;
 }
 
-<<<<<<< HEAD
 .title-image-background {
     background-color: rgba(0, 0, 0, 0.438);
     height: 10vh;
@@ -76,8 +75,6 @@
 
 
 
-=======
->>>>>>> 3f90820458fefb6e9fa4d1c412cfda18ac871b26
 @media screen and (max-width: 600px) {
     .card {
         height: 240px;
