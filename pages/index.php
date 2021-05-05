@@ -1,5 +1,4 @@
 <?php include "../includes/header.php" ?>
-<main>
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-6 p-3">
@@ -19,5 +18,4 @@
             </div>
         </div>
     </div>
-</main>
 <?php include "../includes/footer.php" ?>
