@@ -3,6 +3,15 @@
     width: 80px;
 }
 
+p, h5 {
+    font-family: Yantramanav;
+}
+
+.card-title {
+    font-family: raleway;
+    color: rgb(216, 216, 216);
+}
+
 .btn-primary {
     background-color: #F5822E;
     color: #FAFFFF;
@@ -23,8 +32,8 @@
 }
 
 .landing-img {
-    width: 35vw;
-    height: 50vh;
+    width: 37vw;
+    height: 56.6vh;
 }
 
 .img-card-landing {
@@ -68,16 +77,13 @@
     color: #F5822E;
 }
 
-<<<<<<< HEAD
 .title-image-background {
     background-color: rgba(0, 0, 0, 0.438);
-    height: 10vh;
+    height: 8vh;
 }
 
 
 
-=======
->>>>>>> 3f90820458fefb6e9fa4d1c412cfda18ac871b26
 @media screen and (max-width: 600px) {
     .card {
         height: 240px;
@@ -85,6 +91,16 @@
     }
     .nav-item {
         text-align: center !important;
+    }
+
+    .landing-img {
+        width: 60vw;
+        height: 40vh;
+    }
+
+    .title-image-background {
+        background-color: rgba(0, 0, 0, 0.438);
+        height: 72px;
     }
 }
 
@@ -111,10 +127,11 @@
     /* At the bottom. Use top:0 to append it to the top */
     background: rgb(0, 0, 0);
     /* Fallback color */
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(83, 83, 83, 0.562);
     /* Black background with 0.5 opacity */
-    color: #f1f1f1;
+    color: #c4c4c4;
     /* Grey text */
     padding: 20px;
     /* Some padding */
+    font-size: 2rem;
 }
