@@ -4,3 +4,4 @@ Il nous a été donné comme projet de concevoir un site web responsive sur le t
 
 Nous devions pour sa réalisation réutiliser des articles rédigés par les stagiaires de la formation sur le sujet, qui nous ont servi de contenu rédactionnel.
 
+Lien du site : https://gaels.promo-68.codeur.online/metiers-du-web/
