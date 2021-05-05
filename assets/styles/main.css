@@ -20,6 +20,15 @@ p, h5 {
     border: #F5822E solid 1px !important;
 }
 
+.btn-primary a{
+    color: #FAFFFF;
+}
+
+
+.btn-primary a:hover{
+    color: #F5822E;
+}
+
 .btn-primary:hover {
     background-color: #FAFFFF;
     color: #F5822E;
@@ -137,13 +146,15 @@ p, h5 {
 
 a {
     text-decoration: none;
-    color: #FAFFFF;
-}
+   }
 
-a:hover {
-    color: #F5822E;
-}
+footer a:hover {
+    color: white;
+   }
 
+   footer a {
+    color: white;
+   }
 
 
 .home__container-card .home__container-card--content {

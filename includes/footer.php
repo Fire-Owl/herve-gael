@@ -1,6 +1,9 @@
 </main>
 
 <footer class="bg-light text-center text-lg-start footer-bg">
+  <a class="text p-3" href="../pages/mentions-legales.php">
+Mentions légales
+</a>
   <div class="text-center p-3">
   © Fire Owl - Tous droits réservés
   </div>
