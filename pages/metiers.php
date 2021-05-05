@@ -1,4 +1,5 @@
-<?php include "../includes/header.php" ?>
+<?php $current ='metiers';
+include "../includes/header.php"; ?>
 
 <div class="container">
 

@@ -26,7 +26,13 @@ header, main {
     color: white !important;
     background-color: #f5822e;
 }
-
+.current {
+    
+    color: white;
+    background-color: #f5822e;
+    border-radius: 10px;
+    padding: .5rem 1rem;
+}
 /************** FOOTER **************/
 
 .footer-bg {
