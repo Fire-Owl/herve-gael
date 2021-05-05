@@ -13,7 +13,7 @@ include "../includes/header.php"; ?>
                 <img src="../assets/images/pictures/landing-2.png" alt="Notebook" style="width:100%;">
                 <div class="home__container-card--content">
                     <h5>Le web est l'un des secteurs de l' informatique les plus prolifiques et regroupe de nombreux métiers d'avenir</h5>
-                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1">Voir les métiers</button>
+                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1"><a href="../pages/metiers.php">Voir les métiers</a></button>
                 </div>
             </div>
         </div>

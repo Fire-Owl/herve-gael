@@ -25,7 +25,7 @@ p, h5 {
     color: #F5822E;
 }
 
-.btn-primary:active {
+.btn-primary:onclick {
     background-color: #FAFFFF;
     color: #F5822E;
 }

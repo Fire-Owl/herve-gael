@@ -22,7 +22,7 @@ Directeur artistique, le webdesigner choisit le style et la place des visuels, l
 
     </div>
     <div class="col-sm">
-    <img src="../assets/images/pictures/Analyste-test.jpg" class="card-img-articles" alt="...">
+    <img src="../assets/images/pictures/web-designer.jpg" class="card-img-articles" alt="...">
     <h2>Évolution :</h2>
 <p>– Le webdesigner est proche de l’ergonome, spécialiste de l’expérience utilisateur (UX/UI Design)</p>
 <p>– Il travaille aussi de près avec l’intégrateur web qui va « coder », c’est-à-dire réaliser techniquement un site web ou une appli avec le langage informatique adapté pour mettre en ligne le visuel imaginé par le webdesigner. Le graphiste web qui maîtrise lui-même ces langages aura donc une corde de plus à son arc pour se mettre à son compte ou créer sa propre agence.</p>
