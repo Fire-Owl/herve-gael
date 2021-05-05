@@ -1,9 +1,11 @@
-<?php $current ='metiers';
+<?php $current ='index';
 include "../includes/header.php"; ?>
 
 
 
-<p>les images utilisés sont tirées de Pixabay.com</p>
+<p>Les images utilisées sont des images libres de droits tirées de Pixabay.com <br/>
+    Les articles ont été réalisés par les collaborateurs de Fire Owl, la promo 68 de l'ACS
+</p>
 
 
 

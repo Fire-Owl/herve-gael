@@ -1,4 +1,4 @@
-<?php $current ='metiers';
+<?php $current ='index';
 include "../includes/header.php"; ?>
 
 
