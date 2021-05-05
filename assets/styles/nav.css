@@ -11,6 +11,13 @@ main {
 
 /************** HEADER **************/
 
+.navbar {
+    margin-top: 2vh;
+    padding-top: 2vh;
+    border-top: solid 2px;
+    border-color: #f5822e;
+}
+
 #navbarCollapse {
     margin-left: 2.5rem;
 }
