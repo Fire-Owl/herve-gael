@@ -1,8 +1,10 @@
-body {
+header, main {
     margin-right: 2vw;
     margin-left: 2vw;
     margin-top: 4vh;
 }
+
+/************** HEADER **************/
 
 #navbarCollapse {
     margin-left: 2.5rem;
@@ -23,4 +25,11 @@ body {
 .nav-link:hover {
     color: white !important;
     background-color: #f5822e;
+}
+
+/************** FOOTER **************/
+
+.footer-bg {
+    margin: 0;
+    background-color: #f5822e !important;
 }
