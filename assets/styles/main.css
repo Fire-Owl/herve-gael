@@ -82,6 +82,13 @@ p, h5 {
     height: 8vh;
 }
 
+.card-img-articles {
+    margin-top: 8vh;
+    height: 50vh;
+    width: 80vh;
+    margin-bottom: 15px;
+}
+
 
 
 @media screen and (max-width: 600px) {
