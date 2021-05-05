@@ -32,8 +32,8 @@ p, h5 {
 }
 
 .landing-img {
-    width: 37vw;
-    height: 56.6vh;
+    width: 100%;
+    object-fit : cover;
 }
 
 .img-card-landing {
