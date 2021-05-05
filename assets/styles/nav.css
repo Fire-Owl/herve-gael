@@ -1,0 +1,58 @@
+header, main {
+    margin-right: 2vw;
+    margin-left: 2vw;
+    margin-top: 4vh;
+}
+
+main {
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+}
+
+/************** HEADER **************/
+
+.navbar {
+    margin-top: 2vh;
+    padding-top: 2vh;
+    border-top: solid 2px;
+    border-color: #f5822e;
+}
+
+#navbarCollapse {
+    margin-left: 2.5rem;
+}
+
+#title {
+    position: absolute;
+    margin-top: 2rem;
+    margin-left: 0.5rem;
+}
+
+.nav-link {
+    color: black !important;
+    font-family: "Varela round", sans-serif;
+    border-radius: 10px;
+}
+
+.nav-link:hover {
+    color: #FAFFFF !important;
+    background-color: #f5822e;
+}
+
+.current {
+    color: #FAFFFF;
+    background-color: #f5822e;
+    border-radius: 10px;
+    padding: .5rem 1rem;
+}
+
+/************** FOOTER **************/
+
+.footer-bg {
+    margin: 0;
+    background-color: #f5822e !important;
+}
+
+.copyright {
+    color: #FAFFFF;
+}

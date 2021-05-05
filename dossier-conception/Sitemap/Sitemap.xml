@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gloomaps scheme="1.0">
+  <link>https://www.gloomaps.com/Vrh2qgXtk7</link>
+  <pubdate>04/13/2021</pubdate>
+  <section>
+    <box>
+      <text>Home</text>
+      <member>
+        <box>
+          <text>Les métiers</text>
+          <member>
+            <box>
+              <text>Articles métiers</text>
+              <member/>
+            </box>
+          </member>
+        </box>
+        <box>
+          <text>A propos</text>
+          <member/>
+        </box>
+        <box>
+          <text>Crédits</text>
+          <member/>
+        </box>
+        <box>
+          <text>Mentions légales</text>
+          <member/>
+        </box>
+      </member>
+    </box>
+  </section>
+</gloomaps>
