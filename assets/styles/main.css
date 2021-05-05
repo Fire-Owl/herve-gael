@@ -33,7 +33,7 @@ p, h5 {
 
 .landing-img {
     width: 100%;
-    object-fit : cover;
+    object-fit: cover;
 }
 
 .img-card-landing {
@@ -80,6 +80,13 @@ p, h5 {
 .title-image-background {
     background-color: rgba(0, 0, 0, 0.438);
     height: 8vh;
+}
+
+.card-img-articles {
+    margin-top: 8vh;
+    height: 50vh;
+    width: 80vh;
+    margin-bottom: 15px;
 }
 
 
