@@ -123,8 +123,7 @@ p, h5 {
 
 .home__container-card {
     position: relative;
-    margin: 0 auto;
-    /* Center it */
+    margin : 4.8vh 0 0 0;
 }
 
 a {
