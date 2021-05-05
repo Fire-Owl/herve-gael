@@ -5,7 +5,7 @@
 
 .btn-primary {
     background-color: #F5822E;
-    color:#FAFFFF;
+    color: #FAFFFF;
     border-radius: 18px;
     margin-bottom: 0;
     border: #F5822E solid 1px !important;
@@ -13,7 +13,7 @@
 
 .btn-primary:hover {
     background-color: #FAFFFF;
-    color:#F5822E;
+    color: #F5822E;
 }
 
 .card-img {
@@ -21,10 +21,12 @@
     height: 100%;
     object-fit: cover;
 }
+
 .landing-img {
     width: 35vw;
     height: 50vh;
 }
+
 .img-card-landing {
     height: 70vh !important;
     width: 40vw !important;
@@ -53,9 +55,8 @@
 
 .card-title-background {
     background-color: rgba(0, 0, 0, 0.438);
-
-    position:absolute !important;
-    bottom: 0  !important;
+    position: absolute !important;
+    bottom: 0 !important;
 }
 
 .cardlanding-title-background {
@@ -67,6 +68,7 @@
     color: #F5822E;
 }
 
+<<<<<<< HEAD
 .title-image-background {
     background-color: rgba(0, 0, 0, 0.438);
     height: 10vh;
@@ -74,22 +76,23 @@
 
 
 
+=======
+>>>>>>> 3f90820458fefb6e9fa4d1c412cfda18ac871b26
 @media screen and (max-width: 600px) {
     .card {
         height: 240px;
         width: 160px;
     }
-
-    .nav-item{
+    .nav-item {
         text-align: center !important;
     }
-  }
+}
 
-.position-relative{
+.position-relative {
     position: relative !important;
 }
 
-.home__container-card img{
+.home__container-card img {
     height: 480px;
     object-fit: cover;
     object-position: center;
@@ -97,17 +100,21 @@
 
 .home__container-card {
     position: relative;
+    margin: 0 auto;
+    /* Center it */
+}
 
-    margin: 0 auto; /* Center it */
-  }
-  
-  .home__container-card .home__container-card--content {
-    position: absolute; /* Position the background text */
-    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
-    background: rgb(0, 0, 0); /* Fallback color */
-    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-    color: #f1f1f1; /* Grey text */
-
-    padding: 20px; /* Some padding */
-
-  }
+.home__container-card .home__container-card--content {
+    position: absolute;
+    /* Position the background text */
+    bottom: 0;
+    /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(0, 0, 0);
+    /* Fallback color */
+    background: rgba(0, 0, 0, 0.5);
+    /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    /* Grey text */
+    padding: 20px;
+    /* Some padding */
+}
