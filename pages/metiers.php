@@ -12,7 +12,7 @@ include "../includes/header.php"; ?>
                     <h5 class="card-title">Designer Web</h5>
                 </div>
                 <div class="card-img-overlay d-flex align-items-end flex-column bd-highlight">
-                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1"><a href="../pages/designer-web.php">Plus d'infos</a></button>
+                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1" href="../pages/designer-web.php">Plus d'infos</button>
                 </div>
             </div> 
         </div>
@@ -23,7 +23,7 @@ include "../includes/header.php"; ?>
                     <h5 class="card-title">Pentester</h5>
                 </div>
                 <div class="card-img-overlay d-flex align-items-end flex-column bd-highlight">
-                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1"><a href="../pages/pentester.php">Plus d'infos</a></button>
+                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1" href="../pages/pentester.php">Plus d'infos</button>
                 </div>
             </div> 
         </div>
@@ -34,7 +34,7 @@ include "../includes/header.php"; ?>
                     <h5 class="card-title">Rédacteur web</h5>
                 </div>
                 <div class="card-img-overlay d-flex align-items-end flex-column bd-highlight">
-                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1"><a href="../pages/redacteur-web.php">Plus d'infos</a></button>
+                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1" href="../pages/redacteur-web.php">Plus d'infos</button>
                 </div>
             </div> 
         </div>
@@ -45,7 +45,7 @@ include "../includes/header.php"; ?>
                     <h5 class="card-title">Motion Designer</h5>
                 </div>
                 <div class="card-img-overlay d-flex align-items-end flex-column bd-highlight">
-                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1"><a href="../pages/motion-designer.php">Plus d'infos</a></button>
+                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1" href="../pages/motion-designer.php">Plus d'infos</button>
                 </div>
             </div> 
         </div>
@@ -59,7 +59,7 @@ include "../includes/header.php"; ?>
                     <h5 class="card-title">Développeur Web</h5>
                 </div>
                 <div class="card-img-overlay d-flex align-items-end flex-column bd-highlight">
-                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1"><a href="../pages/developpeur-web.php">Plus d'infos</a></button>
+                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1" href="../pages/developpeur-web.php">Plus d'infos</button>
                 </div>
             </div> 
         </div>
@@ -70,7 +70,7 @@ include "../includes/header.php"; ?>
                     <h5 class="card-title">Chef de projet</h5>
                 </div>
                 <div class="card-img-overlay d-flex align-items-end flex-column bd-highlight">
-                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1"><a href="../pages/chef-de-projet.php">Plus d'infos</a></button>
+                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1" href="../pages/chef-de-projet.php">Plus d'infos</button>
                 </div>
             </div> 
         </div>
@@ -81,7 +81,7 @@ include "../includes/header.php"; ?>
                     <h5 class="card-title">Analyste Test</h5>
                 </div>
                 <div class="card-img-overlay d-flex align-items-end flex-column bd-highlight">
-                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1"><a href="../pages/analyste-test.php">Plus d'infos</a></button>
+                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1" href="../pages/analyste-test.php">Plus d'infos</button>
                 </div>
             </div> 
         </div>
@@ -92,7 +92,7 @@ include "../includes/header.php"; ?>
                     <h5 class="card-title">Graphiste</h5>
                 </div>
                 <div class="card-img-overlay d-flex align-items-end flex-column bd-highlight">
-                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1"><a href="../pages/graphiste.php">Plus d'infos</a></button>
+                    <button class="mt-auto p-2 bd-highlight btn btn-primary shadow-none px-3 me-1" href="../pages/graphiste.php">Plus d'infos</button>
                 </div>
             </div> 
         </div>
